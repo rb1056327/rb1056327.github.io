@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">Na Mídia - Mito Games</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://mitogames.com.br"/>
+	<id>https://mitogames.com.br/servicos</id>
+	<updated>2017-12-17T16:44:39+00:00</updated>
+	<author>
+		<name>Mito Games</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://mitogames.com.br/servicos?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Transmissão AO VIVO - ENEM GAME</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/21-transmissao-ao-vivo-enem-game"/>
+		<published>2017-08-07T20:30:53+00:00</published>
+		<updated>2017-08-07T20:30:53+00:00</updated>
+		<id>https://mitogames.com.br/servicos/21-transmissao-ao-vivo-enem-game</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/0PAq3O4X78w&quot; /&gt;&lt;/p&gt;&lt;p&gt;Vídeo de transmissão do AO VIVO feito pelo GAZETAONLINE. Apresentação do jogo e tira-dúvidas do ENEM GAME.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/0PAq3O4X78w&quot; /&gt;&lt;/p&gt;&lt;p&gt;Vídeo de transmissão do AO VIVO feito pelo GAZETAONLINE. Apresentação do jogo e tira-dúvidas do ENEM GAME.&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Matéria RECORD NEWS - ENEM GAME</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/20-materia-record-news-enem-game"/>
+		<published>2017-08-07T20:30:32+00:00</published>
+		<updated>2017-08-07T20:30:32+00:00</updated>
+		<id>https://mitogames.com.br/servicos/20-materia-record-news-enem-game</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/QAasB5aAHBQ&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria exibida pela RECORD NEWS mostrando a reta final para o ENEM e como os alunos estão se preparando para o VESTIBULAR!&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/QAasB5aAHBQ&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria exibida pela RECORD NEWS mostrando a reta final para o ENEM e como os alunos estão se preparando para o VESTIBULAR!&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Matéria TV GAZETA(GLOBO)</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/19-materia-tv-gazeta-globo"/>
+		<published>2017-08-07T20:30:17+00:00</published>
+		<updated>2017-08-07T20:30:17+00:00</updated>
+		<id>https://mitogames.com.br/servicos/19-materia-tv-gazeta-globo</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/8pkYJ9pUveI&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria sobre o mercado de GAMES mostrando um pouco do lado empreendedor desses profissionais.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/8pkYJ9pUveI&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria sobre o mercado de GAMES mostrando um pouco do lado empreendedor desses profissionais.&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Entrevista TV VITÓRIA(RECORD)</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/18-entrevista-tv-vitoria-record"/>
+		<published>2017-08-07T20:30:04+00:00</published>
+		<updated>2017-08-07T20:30:04+00:00</updated>
+		<id>https://mitogames.com.br/servicos/18-entrevista-tv-vitoria-record</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/ZlVyUQ51w7s&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto) falando um pouco do processo de criação e como funciona o jogo preparativo para o Vestibular!&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/ZlVyUQ51w7s&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto) falando um pouco do processo de criação e como funciona o jogo preparativo para o Vestibular!&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Entrevista RECORD NEWS</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/17-entrevista-record-news"/>
+		<published>2017-08-07T20:29:51+00:00</published>
+		<updated>2017-08-07T20:29:51+00:00</updated>
+		<id>https://mitogames.com.br/servicos/17-entrevista-record-news</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/2OvfisXTwlU&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto) falando sobre o mercado de empreendedorismo na área digital, mercado de jogos e o funcionamento do ENEM GAME (Eu me Garanto).&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/2OvfisXTwlU&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto) falando sobre o mercado de empreendedorismo na área digital, mercado de jogos e o funcionamento do ENEM GAME (Eu me Garanto).&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Entrevista TV CAPIXABA (BAND)</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/16-entrevista-tv-capixaba-band"/>
+		<published>2017-08-07T20:29:37+00:00</published>
+		<updated>2017-08-07T20:29:37+00:00</updated>
+		<id>https://mitogames.com.br/servicos/16-entrevista-tv-capixaba-band</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/jeV1_ihMmjI&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto falando sobre os primeiros resultados atingidos com o jogo no exterior.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/jeV1_ihMmjI&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto falando sobre os primeiros resultados atingidos com o jogo no exterior.&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Entrevista AO VIVO TV GAZETA(GLOBO)</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/15-entrevista-ao-vivo-tv-gazeta-globo"/>
+		<published>2017-08-07T20:29:22+00:00</published>
+		<updated>2017-08-07T20:29:22+00:00</updated>
+		<id>https://mitogames.com.br/servicos/15-entrevista-ao-vivo-tv-gazeta-globo</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/PI8Vij1rVWM&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista AO VIVO na TV GAZETA (GLOBO) sobre o ENEM GAME (Eu me Garanto).&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/PI8Vij1rVWM&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista AO VIVO na TV GAZETA (GLOBO) sobre o ENEM GAME (Eu me Garanto).&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Entrevista TV VITÓRIA(RECORD) 2</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/14-entrevista-tv-vitoria-record-2"/>
+		<published>2017-08-07T20:28:56+00:00</published>
+		<updated>2017-08-07T20:28:56+00:00</updated>
+		<id>https://mitogames.com.br/servicos/14-entrevista-tv-vitoria-record-2</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/cw2T_PNadxQ&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto) mostrando o funcionamento do game!&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/cw2T_PNadxQ&quot; /&gt;&lt;/p&gt;&lt;p&gt;Entrevista com os criadores do ENEM GAME (Eu me garanto) mostrando o funcionamento do game!&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Eu Me Garanto Matéria G1</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/13-eu-me-garanto-materia-g1"/>
+		<published>2017-08-07T20:28:35+00:00</published>
+		<updated>2017-08-07T20:28:35+00:00</updated>
+		<id>https://mitogames.com.br/servicos/13-eu-me-garanto-materia-g1</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/images/midia/nm01.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria sobre o Eu Me Garanto no portal de notícias G1&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/images/midia/nm01.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria sobre o Eu Me Garanto no portal de notícias G1&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+	<entry>
+		<title>Eu Me Garanto Matéria Jornal Impresso A Gazeta</title>
+		<link rel="alternate" type="text/html" href="https://mitogames.com.br/servicos/12-eu-me-garanto-materia-jornal-impresso-a-gazeta"/>
+		<published>2017-08-07T20:28:18+00:00</published>
+		<updated>2017-08-07T20:28:18+00:00</updated>
+		<id>https://mitogames.com.br/servicos/12-eu-me-garanto-materia-jornal-impresso-a-gazeta</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/images/midia/nm02.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria sobre o Eu Me Garanto no jornal impresso A Gazeta.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://mitogames.com.br/images/midia/nm02.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Matéria sobre o Eu Me Garanto no jornal impresso A Gazeta.&lt;/p&gt;</content>
+		<category term="Na Mídia" />
+	</entry>
+</feed>
